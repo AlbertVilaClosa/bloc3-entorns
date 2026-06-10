@@ -24,7 +24,11 @@ def trobar_edat_maxima(persones):
 
         edats.append(persona["edat"])
 
+    if not edats:
+        return -1
+
     return max(edats)
+
 
 
 persones_1 = [

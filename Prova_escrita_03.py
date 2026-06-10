@@ -38,7 +38,7 @@ persones_3 = [
 
 persones_4 = [
     {'nom': 'Anna Garcia', 'edat': 25},
-    {'nom': 'Marc Puig', 'edat': '42'},
+    {'nom': 'Marc Puig', 'edat': 42},
     {'nom': 'Laura Martí', 'edat': 35}
 ]
 

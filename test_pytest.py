@@ -35,7 +35,7 @@ import Prova_escrita_03
         (
             [
                 {"nom": "Anna", "edat": 25},
-                {"nom": "Marc", "edat": "42"},
+                {"nom": "Marc", "edat": 42},
             ],
             -1,
         ),

@@ -23,16 +23,18 @@ persones_1 = [
     {'nom': 'Marc Puig', 'edat': 42},
     {'nom': 'Laura Martí', 'edat': 35},
     {'nom': 'Jordi Soler', 'edat': 58},
+
+]
+
+persones_2 = [    
     {'nom': 'Marta Vidal', 'edat': 29},
     {'nom': 'Pere Català', 'edat': 67},
     {'nom': 'Sofia Roca', 'edat': 31}
 ]
 
-persones_2 = []
-
 persones_3 = [
     {'nom': 'Anna Garcia', 'edat': 25},
-    {'nom': 'Marc Puig'},
+    {'nom': 'Marc Puig', 'edat': 45},
     {'nom': 'Laura Martí', 'edat': 35}
 ]
 
